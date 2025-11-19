@@ -27,6 +27,6 @@ div.mycontainer {
     height: 200px;
     background-color: rgb(245, 246, 249);
   }
-  .topnav {
+  div.topnav {
     display: none;
   }
